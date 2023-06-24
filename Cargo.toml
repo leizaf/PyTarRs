@@ -1,11 +1,11 @@
 [package]
-name = "PyTarRs"
-version = "0.1.0"
+name = "pytarrs"
+version = "0.1.3"
 edition = "2021"
 include = ["/src"]
 
 [lib]
-name = "PyTarRs"
+name = "pytarrs"
 crate-type = ["cdylib"]
 
 [dependencies]
