@@ -15,3 +15,7 @@ tar = PyReader('foo.tar')
 for x in tar:
     pass
 ```
+
+## Todo:
+- compile Linux wheel
+- generalize the grouping behavior (right now its customized for my needs)
